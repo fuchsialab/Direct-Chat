@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Direct Chat</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_drawer">drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string name="lkmkm">https://fuchsiarim.blogspot.com/p/privacy-policy-for-fuschia-lab.html</string>
+    <string name="mm">https://www.pexels.com/license/</string>
+    <string name="jjjj">https://play.google.com/store/apps/details?id=com.fuchsia.directsave</string>
+    <string name="loading">Please wait till loading</string>
+    <string name="set">Wallpaper Set</string>
+    <string name="updateurl">https://play.google.com/store/apps/details?id=com.fuchsia.directsaver</string>
+
+</resources>

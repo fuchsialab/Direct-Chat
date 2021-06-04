@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108981213932",
+    "firebase_url": "https://direct-chat-app-395c4.firebaseio.com",
+    "project_id": "direct-chat-app-395c4",
+    "storage_bucket": "direct-chat-app-395c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108981213932:android:ce7bc3ed2d7625ec7fe3c9",
+        "android_client_info": {
+          "package_name": "com.fuchsia.directchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108981213932-n45ncerkipdn599m6ibjs00svuutjste.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fuchsia.directchat",
+            "certificate_hash": "c4744223119835ee353ba1cdca2da5aa2da2292a"
+          }
+        },
+        {
+          "client_id": "108981213932-te444qqor9btan0ucn1hf4cq7dgh5th3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdt7SHj_axWP5MJiD5s5XJKCls_ZI5_DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108981213932-te444qqor9btan0ucn1hf4cq7dgh5th3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
